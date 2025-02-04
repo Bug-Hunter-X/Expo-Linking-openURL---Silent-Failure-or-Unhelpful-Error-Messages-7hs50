@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Linking` API to open a URL and the URL is not properly formatted or cannot be accessed.  The `Linking.openURL()` method doesn't provide very descriptive error messages, making debugging difficult.  Sometimes the error might manifest as a silent failure, where the URL simply doesn't open.
